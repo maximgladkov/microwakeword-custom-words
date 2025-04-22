@@ -3,7 +3,7 @@
   "wake_word": "alfred",
   "author": "aegjoyce",
   "website": "https://github.com/aegjoyce",
-  "model": "alfred.tflite",
+  "model": "https://github.com/aegjoyce/microwakeword-custom-words/blob/main/models/alfred.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.63,
