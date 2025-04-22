@@ -3,7 +3,7 @@
   "wake_word": "alfred",
   "author": "aegjoyce",
   "website": "https://github.com/aegjoyce",
-  "model": "alfred.tflite",
+  "model": "github://aegjoyce/microwakeword-custom-words/models/alfred.tflite",
   "version": 2,
   "trained_languages": ["en"],
   "micro": {
