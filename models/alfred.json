@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "alfred",
+  "wake_word": "Alfred",
   "author": "aegjoyce",
   "website": "https://github.com/aegjoyce",
   "model": "https://raw.githubusercontent.com/aegjoyce/microwakeword-custom-words/refs/heads/main/models/alfred.tflite",
