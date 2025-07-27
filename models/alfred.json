@@ -3,14 +3,14 @@
   "wake_word": "Alfred",
   "author": "aegjoyce",
   "website": "https://github.com/aegjoyce",
-  "model": "https://raw.githubusercontent.com/aegjoyce/microwakeword-custom-words/refs/heads/main/models/alfred.tflite",
+  "model": "https://raw.githubusercontent.com/aegjoyce/maximgladkov/refs/heads/main/models/alfred.tflite",
   "version": 2,
   "trained_languages": ["en"],
   "micro": {
     "probability_cutoff": 0.68,
     "sliding_window_size": 4,
     "feature_step_size": 10,
-    "tensor_arena_size": 22860,
+    "tensor_arena_size": 37000,
     "minimum_esphome_version": "2024.7.0"
   }
 }
